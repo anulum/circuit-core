@@ -1,0 +1,34 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "domain_runtime_dependencies": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
+  "planned_owned_schema_ids": [
+    "circuit_core.envelope.v1",
+    "circuit_core.entity_reference.v1",
+    "circuit_core.operation_request.v1",
+    "circuit_core.admission_record.v1",
+    "circuit_core.data_handling_profile.v1",
+    "circuit_core.design_view.v1",
+    "circuit_core.operation_profile.v1",
+    "circuit_core.approval_record.v1",
+    "circuit_core.design_loop_autonomy_envelope.v1",
+    "circuit_core.system_architecture_and_budget_spec.v1"
+  ],
+  "qualified_owned_schema_ids": [],
+  "repository_name": "CIRCUIT-CORE",
+  "tooling_python": {
+    "actual_version": "3.13.16",
+    "design_baseline": "3.13",
+    "development_lock_sha256": "ed441543292f102dfa3054f1b0efa6c1392adb18ef38c925006962e3573dc3ad",
+    "supported_range": ">=3.13.16,<3.14"
+  },
+  "validation_profile": {
+    "id": "gotm.enterprise-repository-tier0.local-scaffold",
+    "profile_sha256": "f453a70eae008c41f8d26a1f495ec3636f64739bcedb9caac0bdf8774300905c",
+    "revision": "2026-10-04",
+    "standard_sha256": "8421674a61444474447fad2f4d2bfc54dc5a1ea12ae988785e57dbcab385938c"
+  }
+}

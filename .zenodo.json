@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for domain-free circuit contracts, admission, data handling and approval governance: the common record envelope, entity references, operation requests and admission records, data-handling profiles, design views, operation profiles, approval records, autonomy envelopes and system budgets. No contract-kernel package, admission runner, approval verifier or registered record format is released.",
+  "keywords": [
+    "circuit contracts",
+    "admission control",
+    "data compartments",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Core",
+  "upload_type": "software"
+}
