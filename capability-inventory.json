@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-CORE",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "eaa64c8b84028ff94a7b63936320fed18fc884dd37ca4a1e62519b1ec3f32eb9"
+    "sha256": "5333ba611dd8c3fc6cad6ab40e3c56c569c032054c1db64d6fc5439f107e9be0"
   }
 }

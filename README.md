@@ -12,6 +12,8 @@ CIRCUIT-CORE — repository foundation
 
 Circuit Core is being built as the domain-free contract, admission, data-handling and approval kernel imported by every other circuit platform repository. It defines how entities, design views, operation profiles, execution requests, admission decisions, data compartments, autonomy envelopes, person-in-role approvals and hierarchical chip budgets are represented and checked. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed contract-kernel package, admission runner, approval verifier or qualified record schema.
 
+Circuit Core is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - an admission, envelope or approval validator package;
 - a registered runtime record schema;
